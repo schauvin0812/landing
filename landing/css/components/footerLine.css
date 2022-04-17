@@ -1,0 +1,27 @@
+.footerLine {
+	height: 49px;
+    background-color: rgb(80, 190, 170);
+    display: flex;
+    align-items: center;
+    color: white;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.items {
+	padding: 0px 7px;
+    display: flex;
+    align-items: center;
+}
+
+.items i {
+    display: inline-block;
+    font-size: 31px;
+    padding: 107px 7px;
+    color: white;
+}
+
+.items a:hover {
+    opacity: 0.8;
+}

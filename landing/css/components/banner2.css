@@ -1,0 +1,22 @@
+.banner2 {
+	background-image: linear-gradient(-225deg, rgb(0,0,0,0.8) 0%, rgb(0,0,0,0.2) 50%), url(../../images/events.jpeg);
+	color: black;
+	padding: 90px 0px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 6px;
+	margin-top: 57px;
+}
+
+.banner2 h1 {
+	color: white;
+}
+
+.banner2 h2 {
+	color: white;
+    font-size: 29px;
+    text-align: center;
+    margin-bottom: 63px;
+    opacity: 0.9;
+}
+
